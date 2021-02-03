@@ -1,0 +1,3 @@
+nextjs support SSG (static site generation)
+nextjs support SSR (server side redering) and not render in browser at run time
+so both the feature useful for SEO (search engine optimization)
